@@ -1,4 +1,4 @@
-# data_crossplatform
+# data_meme_crossplatform
 WhatsApp political memesphere and Brazilian far-right hybrid media system: the effects of environmental opacity on the spread of extremist memes
 
 Below, you may find the codebook developed for this research.
